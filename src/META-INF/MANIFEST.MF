@@ -1,0 +1,7 @@
+Name: test
+Dialog-Specs: ddw_import.cfe
+Summary: testing
+Author: Amod Upadhye, Deepak Rangarao
+Version: 1.0.0
+Product-Version: 24
+Plugins: R
