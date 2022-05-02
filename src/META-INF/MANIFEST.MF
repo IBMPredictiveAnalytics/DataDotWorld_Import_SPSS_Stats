@@ -2,6 +2,6 @@ Name: DataDotWorld_Import_SPSS_Stats
 Dialog-Specs: ddw_import.cfe
 Summary: DataDotWorld_Import_SPSS_Stats
 Author: Amod Upadhye, Deepak Rangarao
-Version: 1.0.0
+Version: 1.0.1
 Product-Version: 24
 Plugins: R
