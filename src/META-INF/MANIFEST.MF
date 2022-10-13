@@ -1,6 +1,7 @@
 Name: DataDotWorld_Import_SPSS_Stats
+Display-Name: Import Datasets from Data.World
 Dialog-Specs: ddw_import.cfe
-Summary: DataDotWorld_Import_SPSS_Stats
+Summary: import data from DataDotWorld
 Author: Amod Upadhye, Deepak Rangarao
 Version: 1.0.1
 Product-Version: 24
